@@ -14,14 +14,14 @@ Meu nome é Arthur Nunes, tenho 18 anos e sou de Belo Horizonte - MG. Concluí m
     </a>
     <a href="https://github.com/ArthurBD07?tab=repositories">
         <img 
-            alt="Meu repositorio" 
-            title="Meu repositorio" 
+            alt="Meus repositório" 
+            title="Meus repositório" 
             src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-orange?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a>
     <a href="">
         <img 
-            alt="ontate-me pelo Gmail" 
+            alt="contate-me pelo Gmail" 
             title="Contate-me pelo Gmail" 
             src="https://custom-icon-badges.demolab.com/badge/-arthurnunesa06@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"
         />
