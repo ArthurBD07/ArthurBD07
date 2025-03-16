@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em formação`**
 
-Meu nome é Arthur Nunes, tenho 18 anos e sou de Belo Horizonte - MG. Concluí minha formação escolar no Colégio Tiradentes da PMMG e, atualmente, curso Análise e Desenvolvimento de Sistemas na [PUC Minas](pucminas.br). Tenho grande interesse em desenvolvimento full stack e estou sempre aprendendo novas linguagens de programação para ampliar meu conhecimento. Acredito que a tecnologia é uma ferramenta poderosa para transformar ideias em realidade, e estou sempre em busca de novos desafios para evoluir e inovar.
+Meu nome é Arthur Nunes, tenho 18 anos e sou de Belo Horizonte - MG. Concluí minha formação escolar no Colégio Tiradentes da PMMG e, atualmente, curso Análise e Desenvolvimento de Sistemas na [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx). Tenho grande interesse em desenvolvimento full stack e estou sempre aprendendo novas linguagens de programação para ampliar meu conhecimento. Acredito que a tecnologia é uma ferramenta poderosa para transformar ideias em realidade, e estou sempre em busca de novos desafios para evoluir e inovar.
 
 <p>
     <a href="https://github.com/ArthurBD07?tab=followers">
