@@ -14,8 +14,8 @@ Meu nome é Arthur Nunes, tenho 18 anos e sou de Belo Horizonte - MG. Concluí m
     </a>
     <a href="https://github.com/ArthurBD07?tab=repositories">
         <img 
-            alt="Meus repositório" 
-            title="Meus repositório" 
+            alt="Meus repositórios" 
+            title="Meus repositórios" 
             src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-orange?style=for-the-badge&logoColor=white&logo=repo"
         />
     </a>
