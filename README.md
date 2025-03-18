@@ -8,7 +8,7 @@ Meu nome é Arthur Nunes, tenho 18 anos e sou de Belo Horizonte - MG. Concluí m
     <a href="https://github.com/ArthurBD07?tab=followers">
         <img 
             alt="Seguidores" 
-            title="Me siga no GitHub!" 
+            title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/ArthurBD07?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
