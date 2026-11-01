@@ -25,6 +25,25 @@ jobs:
           github_user_name: ArthurBD07
           games: pacman
           hide_month_labels: 'false'
+      - name: Manter os dias de contribuicao visiveis
+        shell: python
+        run: |
+          from pathlib import Path
+          import re
+          for path in Path('dist').glob('pacman-contribution-graph*.svg'):
+              svg = path.read_text()
+              def preserve_day(match):
+                  cell = match.group(0)
+                  initial = re.search(r'values="(#[a-fA-F0-9]{6})', cell)
+                  if not initial:
+                      return cell
+                  color = initial.group(1)
+                  if path.name.endswith('-dark.svg'):
+                      color = {'#0e4429': '#196c2e', '#006d32': '#2ea043', '#26a641': '#3fb950', '#39d353': '#56d364'}.get(color, color)
+                  cell = re.sub(r'fill="#[a-fA-F0-9]{6}"', 'fill="' + color + '"', cell, count=1)
+                  return re.sub(r'<animate\b[\s\S]*?/>', '', cell)
+              svg = re.sub(r'<rect id="c-\d+-\d+"[^>]*>[\s\S]*?</rect>', preserve_day, svg)
+              path.write_text(svg)
       - name: Publicar SVGs na branch output
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
