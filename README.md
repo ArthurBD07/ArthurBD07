@@ -6,7 +6,7 @@
   <p>
     <a href="https://nunessdev.vercel.app"><img src="https://img.shields.io/badge/PORTF%C3%93LIO-0F172A?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Visitar portfólio"></a>
     <a href="mailto:arthurnunesdev1@gmail.com"><img src="https://img.shields.io/badge/E--MAIL-2563EB?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Enviar e-mail"></a>
-    <a href="https://www.instagram.com/nunessdev/"><img src="https://img.shields.io/badge/INSTAGRAM-7C3AED?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram @nunessdev"></a>
+    <a href="https://www.instagram.com/nuness.dev/"><img src="https://img.shields.io/badge/INSTAGRAM-7C3AED?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram @nunessdev"></a>
     <a href="https://www.linkedin.com/in/arthur-nunes-dev/"><img src="linkedin.svg" height="28" alt="LinkedIn de Arthur Nunes"></a>
   </p>
   <p>Belo Horizonte, MG · ADS na PUC Minas</p>
