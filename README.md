@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.jpg" width="100%" alt="Arthur Nunes — Desenvolvedor de Software. Banner azul com contatos e tecnologias.">
+  <img src="BannerAtualizado.png" width="100%" alt="Arthur Nunes — Desenvolvedor de Software. Banner azul com contatos e tecnologias.">
   <h3>Desenvolvedor Full Stack</h3>
   <img src="stacks.gif" width="940" alt="Front-end com React e TypeScript; back-end com Node.js e C#/.NET; PostgreSQL, Supabase e SQL Server; IA para produtividade.">
   <p>Interfaces, APIs e dados conectados em aplicações web.</p>
