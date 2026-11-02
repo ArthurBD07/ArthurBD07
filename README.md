@@ -91,7 +91,7 @@
 
 <div align="center">
   <h3>📬 Contato</h3>
-  <p><a href="https://nunessdev.vercel.app">nunessdev.vercel.app</a> · <a href="mailto:arthurnunesdev1@gmail.com">arthurnunesdev1@gmail.com</a> · <a href="https://www.instagram.com/nunessdev/">@nunessdev</a> · <a href="https://www.linkedin.com/in/arthur-nunes-dev/">LinkedIn</a></p>
+  <p><a href="https://nunessdev.vercel.app">nunessdev.vercel.app</a> · <a href="mailto:arthurnunesdev1@gmail.com">arthurnunesdev1@gmail.com</a> · <a href="https://www.instagram.com/nuness.dev/">@nunessdev</a> · <a href="https://www.linkedin.com/in/arthur-nunes-dev/">LinkedIn</a></p>
 </div>
 
 <hr>
